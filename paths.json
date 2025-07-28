@@ -1,16 +1,16 @@
 {
   "mappings": [
-    "/content/wknvikasrd/language-masters/en:/",
-    "/content/wknvikasrd/language-masters/en/:/",
-    "/content/wknvikasrd/language-masters/en/:/en/",
-    "/content/wknvikasrd/configuration:/.helix/config.json",
-    "/content/wknvikasrd/metadata:/metadata.json",
-    "/content/wknvikasrd/redirects:/redirects.json",
-    "/content/wknvikasrd/placeholders:/placeholders.json",
-    "/content/wknvikasrd.resource/language-masters/en/query-index.json:/en/query-index.json"
+    "/content/wknd-universal/language-masters/en:/",
+    "/content/wknd-universal/language-masters/en/:/",
+    "/content/wknd-universal/language-masters/en/:/en/",
+    "/content/wknd-universal/configuration:/.helix/config.json",
+    "/content/wknd-universal/metadata:/metadata.json",
+    "/content/wknd-universal/redirects:/redirects.json",
+    "/content/wknd-universal/placeholders:/placeholders.json",
+    "/content/wknd-universal.resource/language-masters/en/query-index.json:/en/query-index.json"
   ],
   "includes": [
-    "/content/wknvikasrd/",
-    "/content/dam/wknvikasrd/"
+    "/content/wknd-universal/",
+    "/content/dam/wknd-universal/"
   ]
 }
